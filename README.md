@@ -1,5 +1,5 @@
 # Index Nested Loop Join (INLJ)
-This project is about building and analysing a Data Warehouse prototype for New World with a Semi Stream Join (INLJ) implementation.
+This project is about building and analysing a Data Warehouse prototype with a Semi Stream Join (INLJ) implementation.
 
 ## Operating the Data Warehouse
 The operation of the data warehouse can be broken down into 3 major steps:
